@@ -1,3 +1,14 @@
+## User Story
+
+```md
+AS A developer
+I WANT a README generator
+SO THAT I can quickly create a README for project's
+```
+
+
+
+
 # Good-Readme-Generator
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
