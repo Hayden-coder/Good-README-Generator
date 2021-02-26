@@ -24,9 +24,8 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
-  ![README gif]./Img/GoodReadmeGenerator.gif
-
-
+![Readme](img/GoodReadmeGenerator.gif
+)
 
 <img width="853" alt="Screenshot 2021-02-23 205506" src="https://user-images.githubusercontent.com/74078719/108949648-a639d500-7619-11eb-912c-77a3e492f0dc.png">
 
